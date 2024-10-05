@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zafediraduzu.pages.dev/sitemap.xml
